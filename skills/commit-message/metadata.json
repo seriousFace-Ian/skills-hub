@@ -1,0 +1,6 @@
+{
+  "version": "1.1.0",
+  "author": "user",
+  "date": "October 2026",
+  "abstract": "A skill that checks staged, working tree, and untracked changes for sensitive information before generating a concise, conventional commit message. Redacts sensitive output, rechecks staged contents before committing, and waits for user confirmation before executing the commit."
+}

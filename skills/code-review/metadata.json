@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "author": "user",
+  "date": "April 2026",
+  "abstract": "Senior-engineer-grade code review for git and mercurial workspaces. Auto-detects VCS, collects the full diff and file context, then evaluates correctness, security (OWASP), performance, maintainability, and test coverage. Outputs a structured High/Medium/Low priority report."
+}
